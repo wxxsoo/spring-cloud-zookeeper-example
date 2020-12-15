@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: world-service
+  cloud:
+    zookeeper:
+      connect-string: localhost:2181
+server:
+  port: 9101
+logging:
+  level:
+    org.apache.zookeeper.ClientCnxn: WARN
