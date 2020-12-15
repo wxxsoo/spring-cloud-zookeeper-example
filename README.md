@@ -14,5 +14,4 @@ Spring Cloud Zookeeper를 활용한 서비스 디스커버리 검토를 위한 �
 $ curl localhost:9101/world/test 
 This is Hello Service!!
 ```
-요청부터 응답까지 아래의 시나리오를 이루어집니다
 ![zookeeper 001](https://user-images.githubusercontent.com/46879746/102187664-9e620400-3ef7-11eb-9890-9fb952ae4d17.jpeg)
